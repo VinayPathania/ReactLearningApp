@@ -20,18 +20,18 @@ A simple and interactive to-do list app built using:
 
 ## 📂 Folder Structure
 src/
-├── main.tsx # App entry point
-├── App.tsx # Root component
-├── components/ # UI components
-│ ├── AddTodo.tsx # Add task form
-│ ├── TodoItem.tsx# Single task display
-│ └── TodoList.tsx# Task list display
-├── hooks/ # Custom hooks
-│ └── useTodos.ts # State + LocalStorage logic
-├── types/ # Type definitions
-│ └── todo.ts # Todo interface
-└── styles/
-└── globals.css # App styling
+- ├── main.tsx # App entry point
+- ├── App.tsx # Root component
+- ├── components/ # UI components
+- │ ├── AddTodo.tsx # Add task form
+- │ ├── TodoItem.tsx# Single task display
+- │ └── TodoList.tsx# Task list display
+- ├── hooks/ # Custom hooks
+- │ └── useTodos.ts # State + LocalStorage logic
+- ├── types/ # Type definitions
+- │ └── todo.ts # Todo interface
+- └── styles/
+- └── globals.css # App styling
 
 
 ---
