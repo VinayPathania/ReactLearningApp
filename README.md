@@ -53,8 +53,8 @@ src/
 
 ## 🚀 Run Locally
 ```bash
-npm create vite@latest my-todo-app --template react-ts
-cd my-todo-app
+npm create vite@latest react-app --template react-ts
+cd react-app
 # Replace src/ with project files
 npm install
 npm run dev
